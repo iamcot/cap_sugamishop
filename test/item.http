@@ -12,10 +12,9 @@ POST {{baseUrl}}/ItemService/ItemConfigs
 Content-Type: application/json
 
 {
-    "ID": "784ce153-11e9-419e-bc49-1bab9e996a7c",
     "name": "Katamino Family",
     "description": "A good game for family",
     "price": 385000,
     "currency_code": "VND",
-    "stock": 100
+    "stock": 10
 }
